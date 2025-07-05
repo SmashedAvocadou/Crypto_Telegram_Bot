@@ -2,7 +2,7 @@
 
 # 💬 Crypto Telegram Bot
 
-Telegram-бот, который показывает текущую цену и изменение курса популярных криптовалют за выбранный период времени.
+Telegram-бот, который показывает текущую цену и изменение курса популярных криптовалют за выбранный период времени. Код написан на 40% ChatGPT.
 
 ## 📌 Возможности
 
@@ -33,7 +33,7 @@ Telegram-бот, который показывает текущую цену и 
 
 # 💬 Crypto Telegram Bot
 
-Telegram bot that shows the current price and rate changes of popular cryptocurrencies for a selected period of time.
+Telegram bot that shows the current price and rate changes of popular cryptocurrencies for a selected period of time. Code is written 40% by ChatGPT. 
 
 ## 📌 Possibilities
 
